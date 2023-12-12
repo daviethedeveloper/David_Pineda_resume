@@ -1,60 +1,53 @@
-# md-resume
+# David Pineda's Resume
 
-A resume maintained in plain text and rendered to HTML and PDF using CSS.
+## Brigham Young University - Idaho
 
-For more details, see the [markdown-csv project page](http://elipapa.github.io/markdown-cv), or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
+**Contact:** 
+- Email: [datascience@byui.edu](mailto:datascience@byui.edu)
+- [Data Science Program](https://byuidatascience.github.io/development.html)
+- [LinkedIn](https://www.linkedin.com/groups/13537407/)
+- [GitHub](https://github.com/byuids-resumes)
 
-***
+# Skills
+- SQL (SQL Server, MySQL)
+- Python (Pandas, NumPy, SciPy, MatPlotLib)
+- Tableau
+- Excel (VLOOKUP, Conditional Formatting, Pivot Tables)
+- Microsoft Power BI
+- RStudio-R
 
-## Customization
+# Projects
 
-Simply [fork the mdresume repo](https://github.com/byuids-resumes/mdresume)
+## Data Science Amazon (April 2023)
+- Conducted thorough analysis of sales data for Amazon products, providing insights on sales trends
+- Utilized Python (Pandas, Matplotlib, Seaborn) to clean and visualize data
+- Applied statistical analysis and machine learning techniques to predict future sales
 
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+## SQL Data Cleaning Project (February 2023)
+- Cleaned and standardized date format in a Nashville Housing SQL database using CONVERT and ALTER TABLE commands
+- Populated missing property address data by joining tables and updating with non-null values
+- Broke down the property address column into individual address, city, and state columns using substring and parse functions
 
-and edit the `index.md` file in the `docs` folder [directly in Github](https://help.github.com/articles/editing-files-in-your-repository/)
+## Data Analysis (February 2023)
+- Analyzed a movie dataset using Python's Pandas library to extract insights into budget, company, and gross earnings correlations
+- Used data visualization tools (seaborn, matplotlib, heatmaps) to create visually appealing graphs
+- Employed data cleaning techniques to address missing data, incorrect data types, and duplication
 
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
+# Work Experience
 
-adding your skills, jobs and education.
+## Teacher Assistant – Brigham Young University, Rexburg, ID (January 2023-Present)
+- Assisted in grading papers for Data Structure and Algorithms course
+- Provided timely feedback to improve students' understanding
+- Assisted students in Python packages, data wrangling, and overall data science concepts
 
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
+# Education
 
-## Distribution
+**Brigham Young University – Idaho, Rexburg, ID**
+- B.Sc. Computer Science; Minor Data Science; Certificate of Machine Learning
+- GPA: 3.9/4.0 (April 2024)
 
-To transform your plain text resume into a beautiful and shareable HTML page, you have two options:
-
-### I. Use Github Pages to publish it online
-
-1. Edit or move your resume to the `index.md` file in the `docs` folder.
-2. Go to settings > GitHub pages to make the changes shown.
-
-![](docs_setup.png)
-
-3. Head to *yourusername*.github.io/mdresume to see your resume live.
-
-Any change you want to make to your CV from then on would have to be done in the `docs` folder and will be immediately rendered by Github Pages.
-
-## Styling
-
-The included CSS will render your CV in two styles:
-s
-1. `kjhealy` the original default, inspired by [kjhealy's vita
-template](https://github.com/kjhealy/kjh-vita).
-2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
-  right aligned.
-
-To change the default style, simply change the variable in the
-`_config.yml` file.
-
-Any other styling is possible. More CSS style contributions and forks are welcome!
-
-### Author
-
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
-
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
-
-### License
-
-[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
+**Contact:** 
+- [Email](mailto:daviethedev781@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/daviethedev/)
+- [Portfolio](https://reliable-raindrop-eac772.netlify.app/)
+- Location: Los Angeles, CA 90019
